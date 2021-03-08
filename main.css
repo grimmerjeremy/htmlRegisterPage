@@ -1,0 +1,21 @@
+body{
+    background-color: teal;
+}
+nav{
+    text-align: right;
+}
+section{
+    background-color: white;
+}
+h2{
+    text-align: left;
+}
+form{
+    text-align: center;
+    border: 7px solid black;
+    background-color: white;
+    margin: 30px 300px 400px 300px;
+}
+header{
+    text-align: right;
+}
